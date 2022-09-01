@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Calculadora</string>
+
+    <string name="boton_sumar">sumar</string>
+    <string name="boton_restar">restar</string>
+    <string name="boton_multiplicar">multiplicar</string>
+    <string name="boton_dividir">dividir</string>
+    <string name="boton_hint">Escribe un número</string>
+    <string name="imagen">logo</string>
+    <string name="youtube">Youtube</string>
+
+
+</resources>
