@@ -28,6 +28,8 @@ public class MainActivity extends AppCompatActivity {
         numero_dos = findViewById(R.id.numero_dos);
         respuesta = findViewById(R.id.respuesta);
 
+        numero_uno.setText("hola como vas");
+
     }
 
 
